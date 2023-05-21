@@ -1,7 +1,7 @@
 # Nasywa Salaisha Fatiya's Portfolio Website
+
 # Deskripsi Website
-Website Portofolio ini berisi informasi milik Bunga Sandra. Website ini memuat beberapa informasi seperti
-riwayat pendidikan
+Website Portofolio ini berisi informasi milik Nasywa Salaisha Fatiya. Website ini memuat beberapa informasi seperti
 keahlian
 nama proyek yang pernah terlibat
 
